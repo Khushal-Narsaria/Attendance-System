@@ -1,6 +1,6 @@
 # Real student photos and generated reports stay local
-dataset/
-attendance_report.xlsx
+/dataset/
+/attendance_report.xlsx
 demo/output/
 demo/attendance_report.xlsx
 
