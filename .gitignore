@@ -1,0 +1,11 @@
+# Real student photos and generated reports stay local
+dataset/
+attendance_report.xlsx
+demo/output/
+demo/attendance_report.xlsx
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
